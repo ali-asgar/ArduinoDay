@@ -6,15 +6,14 @@ Conducted the Arduino Day 2019 hands-on training session for 70+ participants on
 Arduino Day 2019 held simultaneously on March 16th 2019 had 659 events in 106 countries.
 https://day.arduino.cc
 
-This repository contains codes for "Fast Prototyping" of various sensors and devices.
-- LEDs
-- Push buttons
-- 7 segment display
-- Temperature & Humidity sensor
-- Light sensor
-- Buzzer
-- Ultrasonic sensor
-- Project: Car Parking Assistant
+The hardware used for this workshop:
+- Arduino Uno
+- Arduino Multi-function Shield
+- DHT11 Temperature and Humidity Sensor
+- HC SR-04 Ultrasonic Sensor
+- LDR Light Sensor
+- A to B Cable
+- Jumper Cables
 
 ### Installing the multi-function shield library
 [Reference Documentation](https://www.mpja.com/download/hackatronics-arduino-multi-function-shield.pdf): Kashif Baig, 2015 cohesivecomputing.co.uk
