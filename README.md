@@ -9,7 +9,6 @@ This full day training session was focussed on Fast Prototyping. Participants le
 
 Arduino Day 2019 held simultaneously on March 16th 2019 had 659 events in 106 countries.
 https://day.arduino.cc
-https://lnkd.in/ekswbPc
 
 This repository contains codes for "Fast Prototyping" of various sensors.
 
