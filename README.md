@@ -1,7 +1,8 @@
-# ArduinoDay
+# Arduino Day
 The passion to teach has always stayed with me.
 
 Conducted the Arduino Day 2019 hands-on training session for 70+ participants on March 16th at NJIT.
+
 Organized By IEEE, ACM, ASME, GSA, Student Senate, and IEEE North Jersey Section.
 
 This full day training session was focussed on Fast Prototyping. Participants learnt how to build a complete system from scratch and use them in different applications.
