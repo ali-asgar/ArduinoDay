@@ -37,11 +37,12 @@ you’re a kid starting out, be sure to have supervision of a responsible adult.
 
 Start coding and have fun!
 
-Official Arduino Day banner:
+
+### Official Arduino Day banner:
 ![Arduino Day - Ali Asgar Tashrifwala](https://user-images.githubusercontent.com/15716059/54493664-f09c6e00-48a8-11e9-8080-c8e8a4fbae78.png)
 
-The hardware kit for the workshop:
+### The hardware kit for the workshop:
 ![213456](https://user-images.githubusercontent.com/15716059/54493994-1aa35f80-48ac-11e9-8e85-0218afee084a.jpeg)
 
-Glimpses from the workshop:
+### Glimpses from the workshop:
 ![DSC00986](https://user-images.githubusercontent.com/15716059/54493687-29d4de00-48a9-11e9-8fa8-316a39785ca7.JPG)
