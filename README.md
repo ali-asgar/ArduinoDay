@@ -13,7 +13,7 @@ https://day.arduino.cc
 This repository contains codes for "Fast Prototyping" of various sensors.
 
 ### Installing the multi-function shield library
-[Reference Documentation(https://www.mpja.com/download/hackatronics-arduino-multi-function-shield.pdf): Kashif Baig, 2015 cohesivecomputing.co.uk
+[Reference Documentation](https://www.mpja.com/download/hackatronics-arduino-multi-function-shield.pdf): Kashif Baig, 2015 cohesivecomputing.co.uk
 
 You will need to first install the following:
 1. [TimerOne Library](https://github.com/PaulStoffregen/TimerOne)
