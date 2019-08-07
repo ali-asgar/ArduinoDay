@@ -1,7 +1,5 @@
 # Arduino Day
 
-
-
 [Arduino Day 2019](https://day.arduino.cc) was a hands-on training session conducted for 70+ participants on March 16th at NJIT. Organized By IEEE, ACM, ASME, GSA, Student Senate, and IEEE North Jersey Section. This full day training session was focussed on Fast Prototyping. Participants learnt how to build a complete system from scratch and use them in different applications. **Arduino Day 2019 held simultaneously on March 16th 2019 had 659 events in 106 countries.**
 
 The ArduinoDay repository contains all the codes for hands-on training on Arduino Uno. The repository makes use of TimerOne library, LCM, SoftI2CMaster library, MultiFuncShield library, and DHT library.
@@ -17,6 +15,9 @@ Clone this repository to your **/Documents/Arduino/libraries folder**.
 - LDR Light Sensor
 - A to B Cable
 - Jumper Cables
+
+### Software Requirements
+- [Arduino IDE](https://www.arduino.cc/en/main/software)
 
 ### Installing the multi-function shield library
 [Reference Documentation](https://www.mpja.com/download/hackatronics-arduino-multi-function-shield.pdf): Kashif Baig, 2015 cohesivecomputing.co.uk
