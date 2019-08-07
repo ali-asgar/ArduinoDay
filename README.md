@@ -6,8 +6,7 @@
 
 The ArduinoDay repository contains all the codes for hands-on training on Arduino Uno. The repository makes use of TimerOne library, LCM, SoftI2CMaster library, MultiFuncShield library, and DHT library.
 
-##Setting up prerequisites
-
+## Setting up prerequisites
 Clone this repository to your **/Documents/Arduino/libraries folder**.
 
 ### Hardware Requirements
