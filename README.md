@@ -1,4 +1,4 @@
-# Arduino Day
+# ArduinoDay
 
 [Arduino Day 2019](https://day.arduino.cc) was a hands-on training session conducted for 70+ participants on March 16th at NJIT. Organized By IEEE, ACM, ASME, GSA, Student Senate, and IEEE North Jersey Section. This full day training session was focussed on Fast Prototyping. Participants learnt how to build a complete system from scratch and use them in different applications. **Arduino Day 2019 held simultaneously on March 16th 2019 had 659 events in 106 countries.**
 
